@@ -5,25 +5,31 @@ There are some tabs of the different level.
 
 ## What I used ##
 
-    - HTML5;
-    - CSS3;
-    - SASS;
-    - Bootstrap;
-    - JQuery;
-    - WebPack;
-    - Git technology;
-    - npm technologe;
+  * HTML5;
+  * CSS3;
+  * SASS;
+  * Bootstrap;
+  * JQuery;
+  * WebPack;
+  * Git technology;
+  * npm technologe;
 
 
-## Structure of project ##
+## Project structure ##
 
-  assets/              source SASS and JS code
-  dist/                compiled code via WebPack
-  .gitignore           included node_modules (ignore by GitHub)
-  index                HTML file
-  README               this file
-  webpack.config       WebPack configuration
-  package.json         file with settings and dependencies
+  assets/ - source SASS and JS code
+
+  dist/ - compiled code via WebPack
+
+  .gitignore  - included node_modules (ignore by GitHub)
+
+  index - HTML file
+
+  README - this file
+
+  webpack.config - WebPack configuration
+
+  package.json  - file with settings and dependencies
 
 ### Installation ###
 
